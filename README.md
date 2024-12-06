@@ -24,7 +24,7 @@ Este projeto foi desenvolvido para testar a API do CineStream, garantindo que os
 - **JUnit 5**: Para execução de testes.
 
 ## **Projeto Cine Stream de Testes**
-[Repositório do Projeto Cine Stream de Teste](https://github.com/Priscila-Santos/Cine-Stream-Test?tab=readme-ov-file#pr%C3%A9-requisitos)
+[Repositório do Projeto Cine Stream de Teste](https://github.com/toscanomatheus/Cine-Stream-Test)
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/cine-stream-test.git
